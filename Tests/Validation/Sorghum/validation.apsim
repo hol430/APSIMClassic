@@ -577,6 +577,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE1_T2">
@@ -1147,6 +1155,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE1_T3">
@@ -1717,6 +1733,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -2281,6 +2305,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE2_T2">
@@ -2766,6 +2798,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE2_T3">
@@ -3251,6 +3291,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -4101,6 +4149,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE3_T2">
@@ -4616,6 +4672,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE3_T3">
@@ -5131,6 +5195,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -5963,6 +6035,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE4_T2">
@@ -6445,6 +6525,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE4_T3">
@@ -6934,6 +7022,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -7804,6 +7900,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE5_T2">
@@ -8343,6 +8447,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE5_T3">
@@ -8886,6 +8998,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -9748,6 +9868,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE6_T2">
@@ -10279,6 +10407,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE6_T3">
@@ -10808,6 +10944,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -11309,6 +11453,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE7_T2">
@@ -11804,6 +11956,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE7_T3">
@@ -12303,6 +12463,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -12800,6 +12968,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE8_T2">
@@ -13299,6 +13475,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_HE8_T3">
@@ -13794,6 +13978,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -14346,6 +14538,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T2">
@@ -14894,6 +15094,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T3">
@@ -15442,6 +15650,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T4">
@@ -15990,6 +16206,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T5">
@@ -16510,6 +16734,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T6">
@@ -17030,6 +17262,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T7">
@@ -17550,6 +17790,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T8">
@@ -18070,6 +18318,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T9">
@@ -18582,6 +18838,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T10">
@@ -19094,6 +19358,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T11">
@@ -19606,6 +19878,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW5_GxE_T12">
@@ -20118,6 +20398,14 @@
             </Sample>
           </Soil>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -20548,6 +20836,14 @@
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T2">
@@ -20976,6 +21272,14 @@
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T3">
@@ -21404,6 +21708,14 @@
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T4">
@@ -21832,6 +22144,14 @@
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T5">
@@ -22232,6 +22552,14 @@
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T6">
@@ -22651,6 +22979,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T7">
@@ -23051,6 +23387,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T8">
@@ -23451,6 +23795,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T9">
@@ -23847,6 +24199,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T10">
@@ -24243,6 +24603,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T11">
@@ -24639,6 +25007,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_BW8_GxE_T12">
@@ -25035,6 +25411,14 @@ sd = 0</text>
               </NH4>
             </Sample>
           </Soil>
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -25388,6 +25772,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE13_Buster-I+N">
@@ -25732,6 +26124,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE13_Buster+I+N">
@@ -26105,6 +26505,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE13_M35-1-I-N">
@@ -26454,6 +26862,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE13_M35-1-I+N">
@@ -26815,6 +27231,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE13_M35-1+I+N">
@@ -27188,6 +27612,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -27531,6 +27963,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE14_M35-1">
@@ -27872,6 +28312,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE14_QL41xQL36">
@@ -28213,6 +28661,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -28632,6 +29088,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE15_M35-1">
@@ -29049,6 +29513,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE15_QL41xQL36">
@@ -29466,6 +29938,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -29841,6 +30321,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE17_T2">
@@ -30214,6 +30702,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE17_T3">
@@ -30587,6 +31083,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -30901,6 +31405,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T2">
@@ -31226,6 +31738,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T3">
@@ -31559,6 +32079,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T4">
@@ -31892,6 +32420,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T5">
@@ -32212,6 +32748,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T6">
@@ -32537,6 +33081,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T7">
@@ -32870,6 +33422,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_LE19_T8">
@@ -33203,6 +33763,14 @@ sd = 0</text>
             <default_cl_conc type="text" description="Chloride concentration (ppm Cl)">0.0</default_cl_conc>
           </irrigation>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
@@ -33557,6 +34125,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_2">
@@ -33909,6 +34485,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_3">
@@ -34261,6 +34845,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_4">
@@ -34617,6 +35209,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_5">
@@ -34973,6 +35573,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_6">
@@ -35329,6 +35937,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_7">
@@ -35693,6 +36309,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_8">
@@ -36057,6 +36681,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
       <simulation name="Sorghum_Gatton_RUE_9">
@@ -36421,6 +37053,14 @@ sd = 0</text>
             </operation>
           </operations>
           <sorghum />
+          <surfaceom name="SurfaceOrganicMatter">
+            <PoolName type="text" description="Organic Matter pool name">wheat_stubble</PoolName>
+            <type type="list" listvalues="bambatsi,barley,base_type,broccoli,camaldulensis,canola,centro,chickpea,chikenmanure_base,cm,cmA,cmB,constants,cotton,cowpea,danthonia,fababean,fieldpea,fym,gbean,globulus,goatmanure,grandis,grass,horsegram,inert,lablab,lentil,lucerne,lupin,maize,manB,manure,medic,millet,mucuna,nativepasture,navybean,oats,orobanche,peanut,pigeonpea,potato,rice,sorghum,soybean,stylo,sugar,sunflower,sweetcorn,sweetsorghum,tillage,tithonia,vetch,weed,WF_Millet,wheat" description="Organic Matter type">wheat</type>
+            <mass type="text" description="Initial surface residue (kg/ha)">0</mass>
+            <cnr type="text" description="C:N ratio of initial residue">80.0</cnr>
+            <cpr type="text" description="C:P ratio of initial residue (optional)">0</cpr>
+            <standing_fraction type="text" description="Fraction of residue standing">0.0</standing_fraction>
+          </surfaceom>
         </area>
       </simulation>
     </folder>
