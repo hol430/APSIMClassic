@@ -101,6 +101,7 @@ class Water : public PlantProcess
    ~Water();
 
    // plant
+   void resetDailyVariables(void);
    void  calcDailySupply(void);
    void  calcStresses(void);
    void  calcUptake(void);

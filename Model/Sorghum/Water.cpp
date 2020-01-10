@@ -243,11 +243,27 @@ void Water::onNewProfile(NewProfileType &v /* message */)
 //------------------------------------------------------------------------------------------------
 void Water::process(void)
    {
+   resetDailyVariables();
    getOtherVariables ();
    calcDailySupply();
    calcStresses();
    calcUptake();
    }
+//------------------------------------------------------------------------------------------------
+void Water::resetDailyVariables(void)
+{
+    for (int i = 0; i < nLayers; i++)
+    {
+        available[i] = 0;
+        availablePot[i] = 0;
+        supply[i] = 0;
+        swUptake[i] = 0;
+        swDep[i] = 0;
+        esw[i] = 0;
+        swDef[i] = 0;
+        dltSwDep[i] = 0;
+    }
+}
 //------------------------------------------------------------------------------------------------
 double Water::swAvailRatio(int currentLayer)
    {
