@@ -52,13 +52,9 @@
       <variable>TE</variable>
       <variable>nfact_photo</variable>
       <variable>temp_stress</variable>
-      <constants>
-        <constant name="format">csv</constant>
-        <constant name="precision">8</constant>
-      </constants>
     </variables>
     <events name="My Variables Events">
-      <event>end_day</event>
+      <event>harvesting</event>
     </events>
   </folder>
   <folder name="Combined Results">

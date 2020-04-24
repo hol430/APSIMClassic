@@ -9,7 +9,7 @@
  The Agricultural Production Systems Simulator
              Copyright(c) APSRU               
 
-Version                = 7.10
+Version                = 7.10 r0
 Title                  = Gjunct86
    Component                        "clock" = %apsim%\Model\Clock.dll
    Component                          "met" = %apsim%\Model\Input.dll
@@ -50,7 +50,7 @@ Paddock:
 
 ------- outputfile Initialisation ---------------------------------------------
      Output frequency:
-        end_day
+        harvesting
      Output variables:
         dd/mm/yyyy as Date
         DaysAfterSowing
@@ -105,7 +105,7 @@ Paddock:
         temp_stress
 
      Output file = Gjunct86.out
-     Format = csv
+     Format = normal
 
 ------- paddock.accum Initialisation ------------------------------------------
      Initialising
