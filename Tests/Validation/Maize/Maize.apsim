@@ -1,4 +1,4 @@
-<folder version="37" creator="Apsim 7.10-r4158" name="Graphs">
+<folder version="37" creator="Apsim 7.10-r0" name="Graphs">
   <RegressionGraph name="Biomass">
     <Legend>
       <CheckedTitles> Predicted/Observed</CheckedTitles>
@@ -28,13 +28,11 @@
       <Y>Predicted BiomassWt</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>Stage</FieldsToMatch>
-        <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
-          <FileName>Observed\ObsMat1.csv</FileName>
-        </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
+        </GDApsimFileReader>
+        <GDApsimFileReader name="Observed">
+          <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
@@ -68,13 +66,11 @@
       <Y>Predicted GrainGreenWt</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>Stage</FieldsToMatch>
         <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
           <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
@@ -108,13 +104,11 @@
       <Y>Predicted GrainGreenN</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>Stage</FieldsToMatch>
         <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
           <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
@@ -148,21 +142,17 @@
       <Y>Predicted biomass_n</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>DaysAfterSowing</FieldsToMatch>
         <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
           <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
   </RegressionGraph>
   <RegressionGraph name="LaiAnth">
     <Legend>
-      <CheckedTitles> Predicted/Observed</CheckedTitles>
-      <CheckedTitles>Regression line</CheckedTitles>
       <CheckedTitles>1:1 line</CheckedTitles>
     </Legend>
     <memo>
@@ -195,7 +185,7 @@
           </FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
@@ -229,13 +219,11 @@
       <Y>Predicted GrainNo</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>DaysAfterSowing</FieldsToMatch>
         <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
           <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
@@ -269,13 +257,11 @@
       <Y>Predicted DaysAfterSowing</Y>
       <GDPredObs name="PredictedObserved">
         <FieldsToMatch>Title</FieldsToMatch>
-        <FieldsToMatch>Stage</FieldsToMatch>
         <GDApsimFileReader name="Observed">
-          <FileName>Observed\ObsAnth1.csv</FileName>
           <FileName>Observed\ObsMat1.csv</FileName>
         </GDApsimFileReader>
         <GDApsimFileReader name="Predicted">
-          <FileName>harvest-results\*.out</FileName>
+          <FileName>*.out</FileName>
         </GDApsimFileReader>
       </GDPredObs>
     </Plot>
