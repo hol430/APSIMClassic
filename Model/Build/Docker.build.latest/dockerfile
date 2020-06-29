@@ -13,15 +13,14 @@
 FROM microsoft/dotnet-framework-build:4.7.1
 SHELL ["powershell", "-Command"]
 
-RUN Install-PackageProvider -Name Chocolatey            -Force -RequiredVersion 2.8.5.130;                                 \
+RUN Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'));                                 \
 	Install-Package         -Name 7Zip                  -Force -RequiredVersion 18.1;                                      \
     Install-PackageProvider -Name ChocolateyGet         -Force;									                           
 	
-RUN Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex; 		\
-    choco feature disable –name showDownloadProgress;                                        								\
+RUN choco feature disable –name showDownloadProgress;                                        								\
 	choco feature enable -n allowGlobalConfirmation;                                         								\
     choco install mingw --x86 --force --params "/exception:sjlj";															\
-	choco install git.portable;																								\
+	choco install git;																								        \
 	choco install curl;                                                                                                     \
 	choco install vcredist2010;                                                                                             \
 	choco install nunit-console-runner;                                                                                     \
