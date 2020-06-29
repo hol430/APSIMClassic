@@ -10,6 +10,6 @@ if "%APSIM%"=="" (
 docker build -t buildapsim %~dp0Docker.build.latest
 if errorlevel 1 exit /b 1
 
-docker run -m 6g --cpu-count %NUMBER_OF_PROCESSORS% -v "%APSIM%":/APSIM buildapsim
+docker run -m 6g --cpu-count %NUMBER_OF_PROCESSORS% -v "%APSIM%":C:\APSIM buildapsim
 
 endlocal
