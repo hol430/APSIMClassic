@@ -1,15 +1,15 @@
 rem @echo off
 setlocal enabledelayedexpansion
 rem ----- Set the %APSIM% variable based on the directory where this batch file is located
-pushd %~dp0..\..
-set APSIM=%CD%
+pushd "%~dp0..\.."
+set "APSIM=%CD%"
 popd
 
 rem ----- This will tell the versionstamper not to increment the revision number.
-%APSIM%\Model\cscs.exe %APSIM%\Model\Build\VersionStamper.cs Directory=%APSIM% Increment=no
+"%APSIM%\Model\cscs.exe" "%APSIM%\Model\Build\VersionStamper.cs" "Directory=%APSIM%" Increment=no
 
 rem ----- Change to model directory
-pushd %APSIM%\Model
+pushd "%APSIM%\Model"
 
 rem ----- Set up the Visual Studio compiler tools
 call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\VsDevCmd.bat"
